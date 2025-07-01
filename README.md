@@ -42,7 +42,5 @@ To answer the above questions, the dataset should include:
 
 ---
 
-## 📫 Contact
 
-For any questions or suggestions, feel free to open an issue or contact the data analytics team.
 
