@@ -1,7 +1,7 @@
 from pathlib import Path
 
 readme_content = """
-# 🛒 Walmart Sales Data Analysis (SQL + Python Project P-9)
+# 🛒 Walmart Sales Data Analysis (SQL + Python Project)
 
 > A complete end-to-end project to extract actionable business insights from Walmart sales data using Python, SQL, and structured analysis.
 
@@ -43,8 +43,8 @@ This project combines **Python**, **SQL**, and **data engineering best practices
 pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
 
 ### ✅ 5. Data Exploration
-Use .info(), .describe(), .head() to inspect dataset
-Identify structure, datatypes, and missing values
+-Use .info(), .describe(), .head() to inspect dataset
+-Identify structure, datatypes, and missing values
 
 ### ✅ 6. Data Cleaning
 Remove duplicates
