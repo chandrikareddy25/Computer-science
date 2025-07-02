@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme_content = """
 # 🛒 Walmart Sales Data Analysis (SQL + Python Project)
 
 > A complete end-to-end project to extract actionable business insights from Walmart sales data using Python, SQL, and structured analysis.
